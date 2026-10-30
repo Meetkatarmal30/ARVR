@@ -1,0 +1,29 @@
+﻿# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]serSettings/
+[Mm]emoryCaptures/
+
+# IDE files
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.user
+*.suo
+
+# Build outputs
+[Bb]uild/
+[Bb]uilds/
+*.dll
+*.exe
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Unity upgrade logs
+UpgradeLog.htm
